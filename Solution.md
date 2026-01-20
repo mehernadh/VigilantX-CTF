@@ -18,7 +18,10 @@ A quick lunch break turned into a mystery. The photo was taken in a place famous
 2. Reading the challenge description closely we notice the hint mentioning cozy cafés and classic cars. Since the challenge is set in Hyderabad this strongly points toward popular upscale localities such as Jubilee Hills or Banjara Hills.
 3. Next we search for Subway outlets located in Jubilee Hills and Banjara Hills. By comparing Google Maps listings and reviewing available images one particular location stands out as a strong match.
 4. Further investigation reveals that this Subway outlet in Jubilee Hills is located alongside Ariko Cafe. The surroundings and visual elements perfectly match the image provided in the challenge.
+<img width="955" height="453" alt="4" src="https://github.com/user-attachments/assets/d0d7fc32-d551-48c1-b741-84daab2fdb18" />
+
 5. Finally we extract the geographical coordinates of Ariko Cafe using Google Maps. These coordinates represent the final flag for the challenge.
+<img width="958" height="450" alt="5" src="https://github.com/user-attachments/assets/70272a05-3590-43a2-8a50-8a2575c6ca2b" />
 
 ---
 
