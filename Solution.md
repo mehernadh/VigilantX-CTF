@@ -8,7 +8,7 @@
 **Image:** Coordinates Over Lunch.jpg
 **Difficulty:** Easy 
 **Flag Format:** `Fl4g-X{latitude,longitude}`  
-**Flag:** `Fl4g-X{17.42, 78.41}`
+**Flag:** `Fl4g-X{17.42,78.41}`
 
 ### Challenge Description
 A quick lunch break turned into a mystery. The photo was taken in a place famous for its cozy cafés and classic cars. Use your investigation skills to uncover the exact location.
