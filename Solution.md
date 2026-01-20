@@ -34,10 +34,17 @@ Whenever CTF organizers create a challenge, they usually drop a GitHub repo and 
 ### Solution
 1. On carefully reading the challenge description, it hints that CTF organizers often release challenges through a GitHub repository. This strongly suggests that a public repository exists for this challenge and needs to be discovered and explored.
 2. We navigate to GitHub and search for repositories related to the challenge name `VigilantX`. During this search, we find a repository named `VigilantX-CTF` matching the challenge name.
+<img width="904" height="360" alt="image" src="https://github.com/user-attachments/assets/c56c7564-472e-4d8c-85d8-95902ee7f2fd" />
+
 3. After locating the repository, we begin exploring its contents to identify any hidden information or clues that may lead to the flag.
 4. While browsing the repository, we observe that it contains three branches. However, none of these branches reveal anything useful. Further inspection shows the presence of a tag. Upon opening the tag, we discover the following encoded string `U3k0dC1Le2dudF96cmZmbnRyX3N5bnR9`
+<img width="907" height="338" alt="image" src="https://github.com/user-attachments/assets/866122bc-debb-4a91-9978-2682b429d519" />
+
 5. At first glance, the string resembles Base64 encoding. Decoding it using Base64 reveals the following output `Sy4t-K{gnt_zrffntr_synt}`
+<img width="541" height="409" alt="image" src="https://github.com/user-attachments/assets/cd137dcd-fee0-4ffa-b2f6-814e06a8590c" />
+
 6. The decoded text appears to be obfuscated using a rotation cipher. Applying a common ROT13 transformation successfully reveals the final flag `Fl4g-X{tag_message_flag}`
+<img width="541" height="400" alt="image" src="https://github.com/user-attachments/assets/eadae8db-aaf2-4873-8187-22ea60864e4e" />
 
 ---
 
@@ -55,6 +62,7 @@ The train glides along a gentle curve before reaching a small station surrounded
 2. Upon opening the provided video, we observe a railway station with multiple tracks. A closer inspection shows that it is a small station and appears to be under construction, which helps narrow down potential locations.
 3. To proceed, we use a trial-and-error approach, focusing on small railway stations in Kerala that have three railway tracks. During the CTF, an additional hint was released stating that the station lies on a Hyderabad to Kerala railway route, which significantly reduces the search space and makes the process easier.
 4. After comparing multiple stations based on these criteria, we identify Idappally Railway Station, Kerala as it closely matches the visual details from the video and aligns with the location shown in the video.
+<img width="948" height="410" alt="image" src="https://github.com/user-attachments/assets/6b713089-1383-45c8-8bdc-c7279b84dcae" />
 
 ---
 
