@@ -26,7 +26,6 @@ A quick lunch break turned into a mystery. The photo was taken in a place famous
 ---
 
 ## Git & Seek
-**Link:** [https://github.com/mehernadh/VigilantX-CTF.git](https://github.com/mehernadh/VigilantX-CTF.git) 
 **Difficulty:** Easy  
 **Flag Format:** `Fl4g-X{}`  
 **Flag:** `Fl4g-X{tag_message_flag}`
